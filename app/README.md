@@ -20,13 +20,11 @@ To get started with this application, you must have python3, pip, postgresql and
 To run this app flawlessly, satisfy the requirements. First, navigate to the backend folder and create virtual environment
 
 On Windows
-
 ```bash
 py -3 -m venv your_venv_name
 ```
 
 On Mac
-
 ```bash
 python3 -m venv your_venv_name
 ```
